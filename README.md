@@ -4,7 +4,7 @@ Developer. Clever. Python lover🐍
 A backend developer focused on web applications and revolutionizing the economic landscape of my country through technology...
 
 *   🌍  I'm based in Georgetown, Guyana
-*   ✉️  You can contact me at [joelquintyn@gmail.com](mailto:joelquintyn@gmail.com)
+*   ✉️  You can contact me at [joelquintyn@gmail.com](mailto:joelquintyn@gmail.com) _Psst.. obv, serious inquiries only_
 *   🧠  I'm learning how to take over the world
 *   🤝  I'm open to collaborating on "inators"
 *   ⚡  I may or may not be Batman... 🤫
